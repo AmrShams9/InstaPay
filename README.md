@@ -26,9 +26,4 @@ The InstaPay Clone Application is a Java SE desktop application designed to repl
 - **Security:** Basic encryption for sensitive data
 - **Testing:** JUnit
 
-## Installation and Running the Application
 
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/yourusername/InstaPay-Clone.git
-   cd InstaPay-Clone
